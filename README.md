@@ -39,7 +39,7 @@ Esses foram os resultados que a o Copilot me Entregou:
 IMG1
 IMG2
 
-<b> <h1>Passo 2: Utilização do Lovable.dev </h1> </b>
+<b> <h1>2° passo: Utilização do Lovable.dev </h1> </b>
 
 Após me cadastrar no site fiquei surpreso de como o site é intuítivo, utilizei o prompt que fiz e ele me entregou um app bastante proximo do que eu queria. Quis como experimento fazer uma tela de LOGIN e poder dar ao usuário a opção de poder categorizar manualmente as compras que ele fez, caso deseje, pois as vezes ele erra na categorização. Precisei de 3 dias de uso Free para poder implentar todos esses experimentos.
 
