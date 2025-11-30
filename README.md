@@ -1,11 +1,11 @@
 <h1>Criando um App de Organização de Finanças Pessoais com Vibe Coding</h1>
 
 
-<b> que é vibe coding?</b>
+<b> <h1>que é vibe coding?</h1> </b>
 
 -> é uma técnica de desenvolvimento de software em que a descrição em linguagem natural (a "vibe") é usada para gerar código, em vez de escrevê-lo manualmente. Um modelo de linguagem grande (LLM) converte a descrição do usuário em código, e o desenvolvedor então revisa e refina a saída da IA, trabalhando em colaboração com a ferramenta para chegar ao resultado desejado. Esse método tem o potencial de acelerar o desenvolvimento ao automatizar tarefas, permitindo que os programadores se concentrem mais na ideia e na iteração do projeto. 
 
-<b>1° passo: Criação e refinamento do meu PRD (Product Requirimenent document)</b>
+<b><h1> 1° passo: Criação e refinamento do meu PRD (Product Requirimenent document)</h1></b>
 
 O meu prompt refinado ficou dessa maneira:
 
@@ -39,7 +39,7 @@ Esses foram os resultados que a o Copilot me Entregou:
 IMG1
 IMG2
 
-<b>Passo 2: Utilização do Lovable.dev</b>
+<b> <h1>Passo 2: Utilização do Lovable.dev </h1> </b>
 
 Após me cadastrar no site fiquei surpreso de como o site é intuítivo, utilizei o prompt que fiz e ele me entregou um app bastante proximo do que eu queria. Quis como experimento fazer uma tela de LOGIN e poder dar ao usuário a opção de poder categorizar manualmente as compras que ele fez, caso deseje, pois as vezes ele erra na categorização. Precisei de 3 dias de uso Free para poder implentar todos esses experimentos.
 
@@ -47,4 +47,4 @@ Imag app
 
 <b>Implementações futuras</b>: Incluir o cartão no app pois hoje em dia é o meio de pagamento mais usado.
 
-<b>Visite o meu App</b> Link
+<b> <h1>Visite o meu App </h1></b> Link
