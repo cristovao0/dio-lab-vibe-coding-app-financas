@@ -36,8 +36,8 @@ Usar tom educativo e linguagem acessível, em português.
 
 Esses foram os resultados que a o Copilot me Entregou:
 
-IMG1
-IMG2
+<img src="https://github.com/cristovao0/dio-lab-vibe-coding-app-financas/blob/main/resources/Captura%20de%20tela%202025-11-29%20165522.png" width:1920 height:1080>
+<img src="https://github.com/cristovao0/dio-lab-vibe-coding-app-financas/blob/main/resources/Captura%20de%20tela%202025-11-29%20165701.png" width:1920 height:1080>
 
 <b> <h1>2° passo: Utilização do Lovable.dev </h1> </b>
 
@@ -45,6 +45,7 @@ Após me cadastrar no site fiquei surpreso de como o site é intuítivo, utilize
 
 Imag app
 
-<b>Implementações futuras</b>: Incluir o cartão no app pois hoje em dia é o meio de pagamento mais usado.
+<h1><b>Implementações futuras</b></h1>: Incluir o cartão no app pois hoje em dia é o meio de pagamento mais usado.
 
-<b> <h1>Visite o meu App </h1></b> Link
+<b> <h1><a href="https://finapp28.lovable.app
+">Conheça o APP</a> </h1></b>
